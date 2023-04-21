@@ -1,38 +1,37 @@
-# Distributed System for Sentiment Analysis of Social Media Data
+# Distributed System for Sentiment Analysis of Social Media Data ---- Sagar Garg
 
 ## Project Description
 
-This project aims to build a distributed system for sentiment analysis of social media data using various programming concepts such as thread programming, thread APIs, MPI programming, task programming, big data analytics, and MapReduce.
+With the use of many programming techniques, including thread programming, thread APIs, MPI programming, task programming, big data analytics, and MapReduce, this project attempts to create a distributed system for sentiment analysis of social media data. analytics, and MapReduce.
 
 ## Project Deliverables
 
-1. Implementation of the proposed project: The system will be developed using Python programming language with the aforementioned programming concepts.
+1. How the project will be implemented: The system will be created utilising the Python programming language and the aforementioned programming ideas.
 
-2. Code and related files: The project code and related files will be available on GitHub, and can be accessed through the link shared in the project guidelines.
+2. Project code and related files: You can obtain the project code and related files on GitHub by using the link provided in the project guidelines.
 
 ## Steps to Develop the Project
 
-1. Define the problem: Identify the problem that you want to solve using the concepts learned in previous weeks, and break it down into smaller, more manageable parts.
+1. Identify the problem and break it down into smaller, more manageable sections. Using the ideas you acquired in previous weeks, define the problem that you wish to address.
 
-2. Choose a programming language: Python programming language will be used for this project.
+2. Decide on a programming language: Python will be used for this project.
 
-3. Design the application architecture: Plan out the application architecture, including how the various components will interact with each other.
+3. Create the application architecture: Lay out the architecture of the application, including how its various elements will communicate with one another.
 
-4. Implement the thread programming: Implement thread programming concepts to enable concurrent execution of tasks within the application.
+4. Implement thread programming: To allow for concurrent task execution within the application, implement thread programming techniques.
 
-5. Implement thread APIs: Incorporate thread APIs into the application to provide additional control and synchronization over thread execution.
+5. Introduce thread APIs: Include thread APIs in the programme to give thread execution more synchronisation and control.
 
-6. Implement MPI programming: Use MPI programming to enable message passing between different threads and nodes in a distributed computing environment.
+6. Use MPI programming: In a distributed computing environment, MPI programming enables message forwarding between several threads and nodes.
 
-7. Implement task programming: Implement task programming concepts to enable the division of a larger task into smaller, independent sub-tasks that can be executed in parallel.
+7. Implement task programming techniques : To make it possible to divide a bigger task into more manageable, independent subtasks that can be completed in parallel.
 
-8. Incorporate big data analytics: Integrate big data analytics concepts into the application to enable the processing and analysis of large datasets.
+8. Integrate big data analytics: To facilitate the processing and analysis of enormous datasets, incorporate big data analytics concepts into the application.
 
-9. Implement MapReduce: Implement the MapReduce programming model to process large datasets in parallel across distributed computing nodes.
+9. Implement MapReduce: To handle huge datasets concurrently across distributed computing nodes, implement the MapReduce programming model.
 
-10. Test and debug the application: Thoroughly test and debug the application to ensure that it works as intended and identify and fix any errors or issues.
+10. Thoroughly test and debug the application: Do this to make sure it functions as planned and to find and correct any faults or problems.
 
-11. Deploy the application: Once testing is complete, deploy the application on a cloud platform to make it accessible to users.
 
 ## Files Required in the GitHub Repository
 
@@ -46,24 +45,3 @@ This project aims to build a distributed system for sentiment analysis of social
 
 - Documentation files: Contains any additional documentation related to the project, such as user manuals or technical guides.
 
-## Tags
-
-- Distributed System
-
-- Sentiment Analysis
-
-- Social Media Data
-
-- Python
-
-- Thread Programming
-
-- Thread APIs
-
-- MPI Programming
-
-- Task Programming
-
-- Big Data Analytics
-
-- MapReduce
